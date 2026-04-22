@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitStudy\\Codekata_Trio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8AC756-9706-4684-A38F-0806B3C35832}|Codekata_Trio\\Codekata_Trio.vcxproj|C:\\GitStudy\\Codekata_Trio\\Codekata_Trio\\solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B8AC756-9706-4684-A38F-0806B3C35832}|Codekata_Trio\\Codekata_Trio.vcxproj|solutionrelative:Codekata_Trio\\solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 248,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "solution.cpp",
+              "DocumentMoniker": "C:\\GitStudy\\Codekata_Trio\\Codekata_Trio\\solution.cpp",
+              "RelativeDocumentMoniker": "Codekata_Trio\\solution.cpp",
+              "ToolTip": "C:\\GitStudy\\Codekata_Trio\\Codekata_Trio\\solution.cpp",
+              "RelativeToolTip": "Codekata_Trio\\solution.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-22T01:47:56.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
